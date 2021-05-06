@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\ExamenU3y4\bin\Debug\ExamenU3y4.exe.config
+C:\Users\USER\source\repos\ExamenU3y4\bin\Debug\ExamenU3y4.exe
+C:\Users\USER\source\repos\ExamenU3y4\bin\Debug\ExamenU3y4.pdb
+C:\Users\USER\source\repos\ExamenU3y4\obj\Debug\ExamenU3y4.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ExamenU3y4\obj\Debug\ExamenU3y4.DialogBoCaptura.resources
+C:\Users\USER\source\repos\ExamenU3y4\obj\Debug\ExamenU3y4.DialogBoxBuscarEspecialidad.resources
+C:\Users\USER\source\repos\ExamenU3y4\obj\Debug\ExamenU3y4.DialogBoxBuscarSemestre.resources
+C:\Users\USER\source\repos\ExamenU3y4\obj\Debug\ExamenU3y4.Properties.Resources.resources
+C:\Users\USER\source\repos\ExamenU3y4\obj\Debug\ExamenU3y4.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ExamenU3y4\obj\Debug\ExamenU3y4.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ExamenU3y4\obj\Debug\ExamenU3y4.exe
+C:\Users\USER\source\repos\ExamenU3y4\obj\Debug\ExamenU3y4.pdb
+C:\Users\USER\source\repos\ExamenU3y4\obj\Debug\ExamenU3y4.Alumnos.resources
